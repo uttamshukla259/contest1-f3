@@ -1,0 +1,23 @@
+
+.table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table td,
+.table th {
+    border: 1px solid #060505;
+    text-align: left;
+    padding: 10px;
+    
+}
+
+.table :nth-child(odd) {
+    background-color: #314f4c;
+    color: white;
+}
+
+button {
+background-color: pink;
+}
